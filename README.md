@@ -5,7 +5,7 @@
 - JavaScript, C++ and Android developer
 - Python Programmer 
 - Web-Scraper
-- Bug Bounting
+- Bug Bounty
 
 ## Find Me
 
