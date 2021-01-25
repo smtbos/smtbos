@@ -9,7 +9,7 @@
 
 ## Find Me
 
-#- [Twitter](https://twitter.com/urmil89)
+{%  - [Twitter](https://twitter.com/urmil89) %}
 - [Instagram](https://instagram.com/smtbos)
-#- [Facebook](https://facebook.com/smtbos)
+{%  - [Facebook](https://facebook.com/smtbos) %}
 - [Homepage](https://smtcodes.in)
